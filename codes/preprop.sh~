@@ -1,0 +1,11 @@
+
+
+ls | egrep '\[pia\]\[cla\]*' > temp
+# moving only piano and classic genre clips
+cat temp | xargs cp -t nov-one/
+
+# hist of instruments
+flu : 153
+pia : 130
+tru : 159
+gac : 149

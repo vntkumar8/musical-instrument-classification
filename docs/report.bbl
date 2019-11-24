@@ -1,0 +1,65 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bosch et~al.(2012)Bosch, Janer, Fuhrmann, and
+  Herrera]{bosch2012comparison}
+Juan~J Bosch, Jordi Janer, Ferdinand Fuhrmann, and Perfecto Herrera.
+\newblock A comparison of sound segregation techniques for predominant
+  instrument recognition in musical audio signals.
+\newblock In \emph{ISMIR}, pages 559--564, 2012.
+
+\bibitem[Deng et~al.(2008)Deng, Simmermacher, and Cranefield]{deng2008study}
+Jeremiah~D Deng, Christian Simmermacher, and Stephen Cranefield.
+\newblock A study on feature analysis for musical instrument classification.
+\newblock \emph{IEEE Transactions on Systems, Man, and Cybernetics, Part B
+  (Cybernetics)}, 38\penalty0 (2):\penalty0 429--438, 2008.
+
+\bibitem[Eronen and Klapuri(2000)]{Eronen2000}
+A.~Eronen and A.~Klapuri.
+\newblock Musical instrument recognition using cepstral coefficients and
+  temporal features.
+\newblock In \emph{Proceedings of the Acoustics, Speech, and Signal Processing,
+  2000. On IEEE International Conference - Volume 02}, ICASSP '00, pages
+  II753--II756, Washington, DC, USA, 2000. IEEE Computer Society.
+\newblock ISBN 0-7803-6293-4.
+\newblock \doi{10.1109/ICASSP.2000.859069}.
+\newblock URL \url{http://dx.doi.org/10.1109/ICASSP.2000.859069}.
+
+\bibitem[McFee et~al.(2015)McFee, Raffel, Liang, Ellis, McVicar, Battenberg,
+  and Nieto]{mcfee2015librosa}
+Brian McFee, Colin Raffel, Dawen Liang, Daniel~PW Ellis, Matt McVicar, Eric
+  Battenberg, and Oriol Nieto.
+\newblock librosa: Audio and music signal analysis in python.
+\newblock In \emph{Proceedings of the 14th python in science conference},
+  volume~8, 2015.
+
+\bibitem[{MTG upf}(2019)]{esen}
+{MTG upf}.
+\newblock Essentia open-source library and tools for audio and music analysis,
+  description and synthesis, 2019.
+\newblock URL \url{https://essentia.upf.edu/documentation/index.html}.
+\newblock [Online; accessed 23-November-2019].
+
+\bibitem[Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel, Thirion,
+  Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay]{scikit}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock \emph{Journal of Machine Learning Research}, 12:\penalty0 2825--2830,
+  2011.
+
+\bibitem[{Wikipedia contributors}(2019)]{wiki:00}
+{Wikipedia contributors}.
+\newblock Mel-frequency cepstrum --- {Wikipedia}{,} the free encyclopedia,
+  2019.
+\newblock URL
+  \url{https://en.wikipedia.org/w/index.php?title=Mel-frequency_cepstrum&oldid=917928298}.
+\newblock [Online; accessed 23-November-2019].
+
+\end{thebibliography}

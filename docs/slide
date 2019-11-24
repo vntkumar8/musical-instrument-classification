@@ -1,0 +1,41 @@
+\documentclass[11pt]{beamer}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usetheme{Madrid}
+%\usecolortheme{seahorse}
+\usefonttheme[onlylarge]{structurebold}
+\setbeamerfont*{frametitle}{size=\normalsize,series=\bfseries}
+\setbeamertemplate{navigation symbols}{}
+\usepackage[english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage[normalem]{ulem}
+\usepackage{etex}
+\usepackage{colortbl,booktabs}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{tikz}
+\begin{document}
+	\author{No author given}
+	\title{\textbf{Musical Instrument Classification}}
+	%\subtitle{}
+	%\logo{}
+	%\institute{}
+	%\date{}
+	%\subject{}
+	%\setbeamercovered{transparent}
+	%\setbeamertemplate{navigation symbols}{}
+	\begin{frame}[plain]
+		\maketitle
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Musical Information Retrieval}
+		Music information retrieval (MIR) is the interdisciplinary science of retrieving information from music.
+	\end{frame}
+\end{document}
