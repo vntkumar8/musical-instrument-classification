@@ -1,5 +1,5 @@
 # Predominant Musical Instrument Classification based on Spectral Features
-This is repository for course project of Computing for Data Sciences (2019), offered in Autumn 2019 at Indian Statistical Institute, Kolkata.
+This is repository for course project of Computing for Data Sciences (2019), offered at Indian Statistical Institute, Kolkata.
 
 
 This work aims to examines one of the corner stone problem of Musical Instrument Retrieval in particular instrument classification. We have presented a very concise summary of past work in this domain. 
