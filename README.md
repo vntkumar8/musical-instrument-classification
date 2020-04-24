@@ -8,3 +8,7 @@ We have used IRMAS dataset for training our models. Most of the well known Super
 
 
 ### [Project report](https://github.com/vntkumar8/musical-instrument-classification/blob/master/docs/mic-report-cds2019.pdf)
+
+### [Publication](https://arxiv.org/abs/1912.02606)
+
+Contributors: [Vineet](https://github.com/vntkumar8/), [Bhushan](https://github.com/bjchaudhari29),[Karthikeya](https://github.com/KarthikeyaR), Ankit, Harish.
